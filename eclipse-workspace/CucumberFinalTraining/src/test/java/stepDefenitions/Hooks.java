@@ -15,7 +15,7 @@ public void beforeHooks() {
 @After
 public void AfterHooks() {
 	Date d = new Date();
-	System.out.println("After Hook :" +d);
+	System.out.println("Time After Hook :" +d);
 
 
 }
